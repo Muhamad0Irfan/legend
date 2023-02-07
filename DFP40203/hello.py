@@ -2,7 +2,7 @@
 #0108208492
 #muhamadirfanmohamadikhwan@gmail.com
 
-
+#ddt4b ppppppppp
 
 name = input ( "What is your name?\n")
 price = float (input ( "What is your price?\n"))
@@ -12,3 +12,4 @@ salestax = (price * (tax/100))
 tap = price + salestax
 greeting = "Hi" +" "+ name +" "+ "total amount to pay is"+" " +str( tap ) + " the sales tax is " + str(tax)
 print (greeting)
+
