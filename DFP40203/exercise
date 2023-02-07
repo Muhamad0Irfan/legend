@@ -6,5 +6,5 @@ result = "Hii this is the temperature in fahrenheit" + " " + str(fahrenheit)
 
 print (result)
 
-#hai awakkk
+#hai awakk
 
