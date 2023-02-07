@@ -5,3 +5,6 @@ fahrenheit = ((celcius*1.8)+32)
 result = "Hii this is the temperature in fahrenheit" + " " + str(fahrenheit)
 
 print (result)
+
+#hai awakkk
+
