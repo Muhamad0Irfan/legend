@@ -1,3 +1,6 @@
+import random
+
+
 print("*****************************")
 print("Welcome to the cavemen battle")
 print("*****************************")
@@ -46,7 +49,12 @@ elif choice1 == 2:
 
 
 elif choice1 == 3:
-    print("Animals manage to chase you")    
+    random_number = random.randint(1,10) 
+    print(random_number) 
+    if random_number > 5: 
+        print("the manage to save some foods") 
+    else: 
+        print("they manage to ran away with their cloths")
 
 
 else :
