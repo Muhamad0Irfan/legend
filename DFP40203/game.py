@@ -43,5 +43,5 @@ else :
     print("Game over!!")
 
 print('The Dragon manage to fight u back')
-health -= damage*2
+health - damage*2
 print(health) 
